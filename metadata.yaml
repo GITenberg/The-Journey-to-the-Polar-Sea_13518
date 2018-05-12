@@ -1,0 +1,43 @@
+_repo: The-Journey-to-the-Polar-Sea_13518
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Scott, Robert Falcon
+    alias: Scott, R. F. (Robert Falcon)
+    birthdate: 1868
+    deathdate: 1912
+    gutenberg_agent_id: '4033'
+    url: http://www.gutenberg.org/2009/agents/4033
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Falcon_Scott
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Franklin, John
+    alias: Franklin, John, Sir
+    birthdate: 1786
+    deathdate: 1847
+    gutenberg_agent_id: '5108'
+    url: http://www.gutenberg.org/2009/agents/5108
+    wikipedia:
+    - http://en.citizendium.org/wiki/John_Franklin
+    - http://en.wikipedia.org/wiki/John_Franklin
+description: ''
+gutenberg_issued: '2004-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arctic regions -- Discovery and exploration -- British'
+- !lcsh 'Explorers -- Great Britain -- Diaries'
+- !lcsh 'Northwest Passage'
+- !lcsh 'Canada, Northern -- Description and travel'
+- !lcsh 'Franklin, John, 1786-1847 -- Diaries'
+- !lcc 'G'
+title: The Journey to the Polar Sea
+url: http://www.gutenberg.org/ebooks/13518
