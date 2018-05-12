@@ -24,6 +24,8 @@ creator:
     - http://en.citizendium.org/wiki/John_Franklin
     - http://en.wikipedia.org/wiki/John_Franklin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13518#The-Journey-to-the-Polar-Sea
 gutenberg_issued: '2004-09-24'
 gutenberg_type: Text
 identifiers:
